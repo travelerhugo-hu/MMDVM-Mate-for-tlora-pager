@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 222" width="480" height="222">
+<rect x="0" y="0" width="480" height="222" fill="#0D1117"/>
+
+<!-- top banner -->
+<rect x="0" y="0" width="480" height="30" fill="#161B22"/>
+<g transform="translate(10,7)" stroke="#3FB950" stroke-width="2" fill="none" stroke-linecap="round">
+  <path d="M5 11 A11 11 0 0 1 27 11"/>
+  <path d="M9 15 A7 7 0 0 1 23 15"/>
+  <circle cx="16" cy="19" r="1.8" fill="#3FB950" stroke="none"/>
+</g>
+<text x="34" y="20" font-family="Arial" font-size="14" fill="#3FB950">HOSELINE</text>
+<text x="240" y="20" text-anchor="middle" font-family="Arial" font-size="16" fill="#C9D1D9">12:34:56 UTC</text>
+<g transform="translate(436,9)">
+  <rect x="0" y="0" width="16" height="13" rx="2" fill="none" stroke="#C9D1D9" stroke-width="1.5"/>
+  <rect x="16.2" y="3.5" width="2.6" height="6" fill="#C9D1D9"/>
+  <rect x="2" y="2" width="11" height="9" fill="#C9D1D9"/>
+</g>
+<text x="432" y="20" text-anchor="end" font-family="Arial" font-size="14" fill="#C9D1D9">82%</text>
+
+<!-- call panel -->
+<text x="10" y="52" font-family="Arial" font-size="20" fill="#58A6FF">TG 2624</text>
+<rect x="320" y="40" width="150" height="8" rx="2" fill="#1C2129"/>
+<rect x="320" y="40" width="95" height="8" rx="2" fill="#3FB950"/>
+<text x="240" y="86" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="40" fill="#3FB950">DL1ABC</text>
+<text x="240" y="112" text-anchor="middle" font-family="Arial" font-size="14" fill="#C9D1D9">Hans Müller</text>
+
+<!-- history panel -->
+<rect x="0" y="120" width="480" height="76" fill="#161B22"/>
+<line x1="0" y1="120" x2="480" y2="120" stroke="#30363D" stroke-width="1"/>
+<text x="10" y="135" font-family="Arial" font-size="14" fill="#3FB950">DL1ABC</text>
+<text x="470" y="135" text-anchor="end" font-family="Arial" font-size="14" fill="#6E7681">TG 2624  12:31</text>
+<text x="10" y="153" font-family="Arial" font-size="14" fill="#C9D1D9">OE3DEF</text>
+<text x="470" y="153" text-anchor="end" font-family="Arial" font-size="14" fill="#6E7681">TG 2624  12:28</text>
+<text x="10" y="171" font-family="Arial" font-size="14" fill="#C9D1D9">F4GHB</text>
+<text x="470" y="171" text-anchor="end" font-family="Arial" font-size="14" fill="#6E7681">TG 2624  12:21</text>
+<text x="10" y="189" font-family="Arial" font-size="14" fill="#C9D1D9">GM1XYZ</text>
+<text x="470" y="189" text-anchor="end" font-family="Arial" font-size="14" fill="#6E7681">TG 2624  12:15</text>
+
+<!-- bottom banner -->
+<rect x="0" y="196" width="480" height="26" fill="#1C2129"/>
+<text x="8" y="213" font-family="Arial" font-size="12" fill="#6E7681">S settings   L backlight   Q/E volume</text>
+<g transform="translate(426,205)">
+  <path d="M0 1 L4 1 L9 -4 L9 13 L4 8 L0 8 Z" fill="#C9D1D9"/>
+  <path d="M12 1 A5 5 0 0 1 12 11" stroke="#C9D1D9" stroke-width="1.4" fill="none"/>
+  <path d="M15 4 A2.6 2.6 0 0 1 15 8" stroke="#C9D1D9" stroke-width="1.4" fill="none"/>
+</g>
+<text x="470" y="213" text-anchor="end" font-family="Arial" font-size="12" fill="#C9D1D9">80%</text>
+</svg>
